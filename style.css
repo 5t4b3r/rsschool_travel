@@ -1,0 +1,17 @@
+body {
+    background-color: orange;
+}
+
+.header {
+    display: flex;
+    color: #ffffff;
+}
+
+.button {
+    background-color: #0D606F;
+    width: 103px;
+    height: 41px;
+    border-radius: 10px;
+    border: 0;
+    cursor: pointer;
+}
